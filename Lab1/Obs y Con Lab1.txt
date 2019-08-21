@@ -1,0 +1,95 @@
+		CURSO: INTEGRACIÒN DE SISREMAS EMPRESARIALESAVANZADO
+
+LAB1 : Instalación de ODOO 
+Estudiantee: Noemi Yanet Yanqui Cueva
+
+-2.3. Captura de CreacionDatabase.jpg
+-2.4. Captura acceso al login
+- 2.5. Captura PortalOdoo.jpg  
+-2.6. Captura de la instalación de PgAdmin.
+-     Captura de Dashboard de la base de Datos del proyecto. 
+------------------------------------------------------------------------------
+TAREA
+------------------------------------------------------------------------------
+1. Tabla con principales módulos de ODOO
+-->
+-------------------------------------------------------------------------------
+Nombre del Módulo	|DESCRIPCIÓN DEL MÓDULO
+-------------------------------------------------------------------------------
+	Odoo Web	|Herramienta para creación de sitios de websites 
+			|corporativos, blog, comercio electrónico o e-commerce 
+			|(tienda virtual), SEO y plantillas.
+-------------------------------------------------------------------------------
+Odoo Punto de Venta o 	|POS front end, POS backend, online y offiline, 
+			  reportes de actividades.
+Point of Sale		|
+-------------------------------------------------------------------------------
+Odoo Marketing		|campañas, generación de lead u oportunidades de negocio,
+			| encuestas, reporte de actividades.
+-------------------------------------------------------------------------------
+Odoo CRM y Ventas	|generación de leads, oportunidades de negocio, 
+			|lista de precios, procesos de venta, cotizaciones, 
+			|órdenes de venta.
+-------------------------------------------------------------------------------
+Gestión de Proyectos	|
+-------------------------------------------------------------------------------
+Compras			|Ordenes de compra, confirmaciones, lista de precios,
+			| reporte de actividades.
+-------------------------------------------------------------------------------
+Facturación		|precios fijos, tiempo y materiales, emisión de facturas
+-------------------------------------------------------------------------------
+Contabilidad		|activos, gastos, gestión de pagos y cobros, 
+			|situación financiera y bancaria, tablas contables.
+-------------------------------------------------------------------------------
+Almacenes		|control de inventario, adquisiciones, multialmacién 
+			|y trazabilidad
+-------------------------------------------------------------------------------
+Fabricación		|lista de componentes de los materiales y materias primas
+			|desgaste, operaciones de montaje o fabricación (rutas), 
+			|centros de trabajo
+-------------------------------------------------------------------------------
+Recursos humanos	|Hojas de gestión, empleados, contratación de personal,
+			|tiempo y asistencia
+-------------------------------------------------------------------------------
+			|
+-------------------------------------------------------------------------------
+
+2. Tabla de los principales productosERP disponibles en la actualidad
+
+-------------------------------------------------------------------------------
+			|
+-------------------------------------------------------------------------------
+			|
+-------------------------------------------------------------------------------
+			|
+-------------------------------------------------------------------------------
+			|
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+OBSERVACIONES 
+-------------------------------------------------------------------------------
+
+- Se observa que para la instalacion de odoo 11, se necesita tener instalado 
+PostgreSQL Database y que por defecto el puerto de conexion sera el 5432.
+- Se observa que durante la instalaciòn nos solicita crear una base de datos.
+- Se observa que para acceder al servicio web de oddo necesitamos logearnos con las
+credenciales insertadas en la creacion de la base de datos.
+- Se observa que el portal de Odoo posee muchas aplicacines.  
+-se observa la instalación de PgAdmin 4
+- Se observa que en el moento de acceder a odoo e ingresar las credenciales con de la
+base de datos con la que se quiere trabajar, aparece la opcio de cargar datos para 
+simular pruebas de las aplicaciones.
+
+
+
+-------------------------------------------------------------------------------
+CONCLUSIONES
+-------------------------------------------------------------------------------
+- Se aprendió qie pgAdmin4 es una aplicación gráfica que sirve para gestionar el 
+gestor de BD.
+- Se aprendió a realizar la instalación de ODOO en su vesrion 11; asimismo
+- Se realizó la instalación de PostgreSQL.
+- Se vio que el erp ODOO  trabaja con una base de datos.
+- Se vio que el ERP de ODOO posee un conjunto de aplicaciones que pueden integrarse
+según las operaciones que se realicen.
