@@ -18,25 +18,25 @@ activar el modo desarrollador , que nos brinda más opciones en el tablero, adema
 que nos muestra un menú pensdo e nlos desarrolladores
 
 5. Creación de un módulo en ODOO
-	![Github i1](/images/comandoParaCrearModulo.png)
+	![odoo i1](images/comandoParaCrearModulo.png)
 5.7 Verificacion de la existencia de la carpeta testmodulo1
-	![Github i1](/images/moduloCreado.png)
+	![Github i1](images/moduloCreado.png)
 	ComandoParaCrearModulo.png
 5.9 Archivo __init__.py
-	![Github i1](/images/init.py.png)
+	![Github i1](images/init.py.png)
 5.10. __manifest__.py
-	![Github i1](/images/CambiosManifest.py.png)
+	![Github i1](images/CambiosManifest.py.png)
 5.14 Instalando módulo creado testmodulo1
-	![Github i1](/images/testmodulo1Instalado.png)
+	![Github i1](images/testmodulo1Instalado.png)
 5.15.Ver Opcion de desinstalar
-	![Github i1](/images/DescripcionModulo1.png)
+	![Github i1](images/DescripcionModulo1.png)
 5.17. Desinstalando el mósulo testmódulo1
-	![Github i1](/images/DesintalandoModulo1.png)
+	![Github i1](images/DesintalandoModulo1.png)
 
 ## **Tarea**
 
 1. Tabla de funcionalidades:
-	![Github i1](/images/EstructuraDeUnModuloEnOdoo.png)
+	![Github i1](images/EstructuraDeUnModuloEnOdoo.png)
 	
 
 ## Observaciones y Conclusiones
