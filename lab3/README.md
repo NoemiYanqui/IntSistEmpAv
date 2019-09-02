@@ -100,13 +100,13 @@
 
     1. Se llenan dos formularios y se envìan
     2. Se visualizan las iniciativas paara convertirlas en oportunidades:
-    ![Github i1](images/VerIniciativas.png)
-    3. Se eligen las iniciativas para convertiralas en oportunidades
-    ![Github i1](images/ConvertirIniciativasAOportunidades.png)
-    4.Se ingresan datos para conversion de oportuniades, como el canal de venta
-    ![Github i1](images/ConvertirOportunidad2.png)
-    5.Se visualiza las iniciativas en la vista kanban , pero ahora como oportunidades.
-    ![Github i1](images/VistaKanban.png)
+
+![Github i1](images/VerIniciativas.png) 3. Se eligen las iniciativas para convertiralas en oportunidades
+![Github i1](images/ConvertirIniciativasAOportunidades.png)
+4.Se ingresan datos para conversion de oportuniades, como el canal de venta
+![Github i1](images/ConvertirOportunidad2.png)
+5.Se visualiza las iniciativas en la vista kanban , pero ahora como oportunidades.
+![Github i1](images/VistaKanban.png)
 
 ## **Tarea**
 
