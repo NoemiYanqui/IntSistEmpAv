@@ -3,7 +3,7 @@
 ## Desarrollo
 
 3.6. Aplique los Filtros “Apps” e “instalado” simultáneamente para ver los módulos instalados actualmente: 
-![Github i1](/images/EvidenciadeAppsInstaladas.png)
+![Github i1](images/EvidenciadeAppsInstaladas.png)
 
 4.1 Identificación del “Tablero” de opciones 
 
