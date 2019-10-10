@@ -1,4 +1,4 @@
-﻿# Lab. 4: MÓDULO VENTAS
+﻿# Lab. 5: MÓDULO VENTAS
 
 ## Desarrollo
 
