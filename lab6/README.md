@@ -57,12 +57,10 @@
       ![Github i1](images/Licitaciones.png)
 
 7.  Módulos de Terceros
-    ![Github i1](images/TopBuying.png)
+    ![Github i1](images/1.png)
 
     - Instalación del módulo Toponimos de Perú
-      ![Github i1](images/Top.png)
-
-    ![Github i1](images/Evidencia.png)
+      ![Github i1](images/verificacionTop.png)
 
 ## TAREA
 
