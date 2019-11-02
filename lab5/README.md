@@ -3,70 +3,73 @@
 ## Desarrollo
 
 1.  Instalación de Módulo Ventas.
-    ![Github i1](images/.png)
-
 2.  Creación de Cotización a cliente
     ![Github i1](images/2.4.png)
-    Verifiación de la creación de la cotización
-    ![Github i1](images/PresupuestoHecho.png)
 
-3.  Entrega de productos de una Cotización
+    - Verifiación de la creación de la cotización
+
+3)  Entrega de productos de una Cotización
     ![Github i1](images/ComprovandoValidacionStockSuficiente.png)
-    Se verifica que el stock disminuye porque ya se hizo la entrega
-    ![Github i1](images/DisminucionDelStock.png)
-    Se envió por correo
-    ![Github i1](images/SendMail.png)
-    Se vió la impresión en .pdf
-    ![Github i1](images/Print.png)
 
-4.  Facturación y registro de pago de una Cotización
+    - Se verifica que el stock disminuye porque ya se hizo la entrega
+      ![Github i1](images/DisminucionDelStock.png)
+    - Se envió por correo
+      ![Github i1](images/SendMail.png)
+    - Se vio la impresión en .pdf
+      ![Github i1](images/Print.png)
+
+4)  Facturación y registro de pago de una Cotización
     ![Github i1](images/FacturaValidada.png)
-    Verificación de la conexion de la factura con el cliente.
-    ![Github i1](images/DeudaCliente.png)
-    Factura/registrar pago
-    ![Github i1](images/RegistrandoPago.png)
-    Se observa la factura como abierta por tener un saldo pendiente.
+
+    - Verificación de la conexion de la factura con el cliente.
+      ![Github i1](images/DeudaCliente.png)
+    - Factura/registrar pago
+      ![Github i1](images/RegistrandoPago.png)
+    - Se observa la factura como abierta por tener un saldo pendiente.
+      ![Github i1](images/FacturaAbierta.png)
+
+5)  Configuración de envío de Correos
     ![Github i1](images/FacturaAbierta.png)
 
-5.  Configuración de envío de Correos
-    ![Github i1](images/FacturaAbierta.png)
-    Se edito el correo y la contraseña en el correo saliente
-    ![Github i1](images/5.2.AgregarCorreo.png)
-    Configurando el correo saliente, editando datos
-    ![Github i1](images/ConfigurandoCorreoSaliente.png)
-    Se acepta el correo de salida al hacer la verificación
-    ![Github i1](images/PruebaSatisfactoria.png)
-    Verificación de la llegada del email al cliente
-    ![Github i1](images/FacturaRecibida.png)
+    - Se edito el correo y la contraseña en el correo saliente
+      ![Github i1](images/5.2.AgregarCorreo.png)
+    - Configurando el correo saliente, editando datos
+      ![Github i1](images/ConfigurandoCorreoSaliente.png)
+    - Se acepta el correo de salida al hacer la verificación
+      ![Github i1](images/PruebaSatisfactoria.png)
+    - Verificación de la llegada del email al cliente
+      ![Github i1](images/FacturaRecibida.png)
 
-6.  Cambio de secuencia
-    Se edita el tamaño y formato de una cotización
-    ![Github i1](images/EditSecuencias.png)
-    Verificacion de la secuencia editada
-    ![Github i1](images/CambioEfectuado.png)
+6)  Cambio de secuencia
 
-7.  Listas de precios
-    Se hace cambio en Ajustes para habilitar la opción de múltiples precios de un producto
-    ![Github i1](images/HabilitarMultiplesPRECIOS.png)
-    Se agrega al producto las tarifas de nayorista y tarifa pública
-    ![Github i1](images/AgregarListaDePrecios.png)
-    Se crea una cotización viendo la opción de Lista De Precios.
-    ![Github i1](images/CreandoCotizaciónConPrecios.png)
-    En la edición de cliente se observa que aparece la opcion de Lista de precios de venta en la subpestaña Ventas y Compras.
-    ![Github i1](images/OpcionClienteConPrecios.png)
-    También podemos habilitar la opción de precios calculados a partir de fórmulas como descuentos , márgenes y redondeos.
+    - Se edita el tamaño y formato de una cotización
+      ![Github i1](images/EditSecuencias.png)
+    - Verificacion de la secuencia editada
+      ![Github i1](images/CambioEfectuado.png)
 
-8.  Portal del cliente
-    Editando el acceso al cliente para que tenga acceso al portal
-    ![Github i1](images/Acceso.png)
-    Se ve el correo que llega al haberle dado acceso al cliente.
-    ![Github i1](images/Correo.png)
-    Estableciendo una nueva contraseña
-    ![Github i1](images/8.5.png)
-    Verificación del acceso al portal
-    ![Github i1](images/8.6.png)
-    Verificación que el cliente puede actualziar sus datos
-    ![Github i1](images/ActualizarDatos.png)
+7)  Listas de precios
+
+    - Se hace cambio en Ajustes para habilitar la opción de múltiples precios de un producto
+      ![Github i1](images/HabilitarMultiplesPRECIOS.png)
+    - Se agrega al producto las tarifas de nayorista y tarifa pública
+      ![Github i1](images/AgregarListaDePrecios.png)
+    - Se crea una cotización viendo la opción de Lista De Precios.
+      ![Github i1](images/CreandoCotizaciónConPrecios.png)
+    - En la edición de cliente se observa que aparece la opcion de Lista de precios de venta en la subpestaña Ventas y Compras.
+      ![Github i1](images/OpcionClienteConPrecios.png)
+    - También podemos habilitar la opción de precios calculados a partir de fórmulas como descuentos , márgenes y redondeos.
+
+8)  Portal del cliente
+    - Editando el acceso al cliente para que tenga acceso al portal
+      ![Github i1](images/Acceso.png)
+    - Se ve el correo que llega al haberle dado acceso al cliente.
+      ![Github i1](images/Correo.png)
+    - Estableciendo una nueva contraseña
+      ![Github i1](images/8.5.png)
+    - Verificación del acceso al portal
+      ![Github i1](images/8.6.png)
+    - Verificación que el cliente puede actualziar sus datos
+      ![Github i1](images/ActualizarDatos.png)
 
 ## **Tarea**
 
