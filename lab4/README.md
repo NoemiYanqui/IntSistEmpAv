@@ -7,7 +7,7 @@
     1.1. Instalaciòn del modulo de inventarios<br />
     ![Github i1](images/instalacionModuloInventario.png)
 2.  Configuración de Almacenes<br />
-    ![Github i1](images/Expectativas.png)<br />
+
     2.1. Configurando la opcion de Multialmacen<br />
     ![Github i1](images/Multialamacen.png)<br />
     2.11 Agregar contacto y dirección<br />
